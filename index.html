@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/style-reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>.:Encrypt & Decrypt Text:.</title>
+</head>
+<body>
+    <header>
+        <img src="img/logo.jpg" alt="Logo">
+    </header>
+    <main class="container">
+        <section class="form-input">
+            <div class="textareaInput-box">
+                <textarea id="txt-input" class="txt-input" cols="30" rows="10" placeholder="Enter your text here"></textarea>
+            </div>
+            <div class="infoWarning-box">
+                <img src="img/icon.jpg" alt="Icon">
+                <p>Enter only lowercase letters and no accents.</p>
+            </div>
+            <div class="buttons-box">
+                <button id="btn-encrypt" class="btn-encrypt">Encrypt!</button>
+                <button id="btn-decrypt" class="btn-decrypt">Decrypt!</button>
+            </div>
+        </section>
+        <section class="rectangle-output">
+            <div id="rectangle-info">
+                <img src="img/doll.jpg" alt="Image of the doll">
+                <h2 class="info-title">No message found</h2>
+                <p class="info-p">Enter the text to be encrypted or decrypted.</p>
+            </div>
+            <div id="rectangle-result" class="invisible">
+                <textarea id="txt-output" class="txt-output" cols="40" rows="24"></textarea>
+                <button id="btn-copy" class="btn-copy">Copy</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>© Challenge Oracle ONE - By Diego Cárdenas</p>
+        <div class="contact">
+            <ul>
+                <li>
+                    <a href="https://github.com/DiegoCardenasCriado" target="_blank">
+                        <img src="img/icon-github.png" alt="Icon github">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/diego-cardenas-criado/" target="_blank">
+                        <img src="img/icon-linkedin.png" alt="Icon linkedin">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <script src="js/index.js"></script>
+</body>
+</html>

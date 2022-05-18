@@ -1,7 +1,10 @@
-# Text Encryption - Alura Challenges Oracle ONE ![Screenshot-desktop](img/favicon.png 'FAVICON')
+# Text Encryption - Alura Challenges Oracle ONE ![Screenshot-desktop](img/favicon.png 'FAVICON') By Diego Cárdenas Criado - [Linkedin](https://www.linkedin.com/in/diego-cardenas-criado/)
 
 ## Info
 My solution to the first Oracle ONE + ALURA LATAM challenge.
+
+Git Pages : [Text Encryption](https://diegocardenascriado.github.io/text-encryption/) 🧐
+
 ### Screenshot
 
 *
@@ -16,8 +19,3 @@ My solution to the first Oracle ONE + ALURA LATAM challenge.
     Mobile
 
     ![Screenshot-mobile](img/screenshot/screenshot-mobile.png 'Screenshot Mobile')
-
-
-# By Diego Cárdenas Criado
-
-LINKED![](img/icon-linkedin.png) - [@diego-cardenas-criado](https://www.linkedin.com/in/diego-cardenas-criado/)
